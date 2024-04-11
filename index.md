@@ -6,7 +6,7 @@
 - [Hosted Web Applicaiton](#item-three)
 
 \
-\
+<br/>
 
 
 <a id="item-one"></a>
@@ -15,7 +15,7 @@
 <img src="techpages/archsnapshots/AppDev.png?raw=true"/>
 
 \
-\
+<br/>
 
 <a id="item-two"></a>
 ### Web Application backend
@@ -23,7 +23,7 @@
 <img src="techpages/archsnapshots/SampleWebAppBackend.png?raw=true"/>
 
 \
-\
+<br/>
 
 <a id="item-three"></a>
 ### Hosted Web Application
