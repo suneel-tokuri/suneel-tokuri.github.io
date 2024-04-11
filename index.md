@@ -7,7 +7,7 @@
 
 \
 \
-\
+
 
 <a id="item-one"></a>
 ### App development
@@ -16,14 +16,12 @@
 
 \
 \
-\
 
 <a id="item-two"></a>
 ### Web Application backend
 
 <img src="techpages/archsnapshots/SampleWebAppBackend.png?raw=true"/>
 
-\
 \
 \
 
