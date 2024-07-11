@@ -1,6 +1,7 @@
 # Generic app architecture
 
 **Table of content:**
+- [Wings of software architecture](#item-sw-arch)
 - [App development paradigm](#item-one)
 - [Web Application backend](#item-two)
 - [Hosted Web Applicaiton](#item-three)
@@ -8,6 +9,15 @@
 \
 <br/>
 
+
+<a id="item-sw-arch"></a>
+### Wings of software architecture
+
+<img src="techpages/archsnapshots/ArchitectureDoc.png?raw=true"/>
+
+
+\
+<br/>
 
 <a id="item-one"></a>
 ### App development
