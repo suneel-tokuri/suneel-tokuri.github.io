@@ -3,7 +3,7 @@
 **Table of content:**
 - [Wings of software architecture](#item-sw-arch)
 - [App development paradigm](#item-one)
-- [Cloud Architecture front block] (#front-block)
+- [Cloud Architecture front block](#front-block)
 - [Web Application backend](#item-two)
 - [Hosted Web Applicaiton](#item-three)
 
