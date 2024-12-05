@@ -3,6 +3,7 @@
 **Table of content:**
 - [Wings of software architecture](#item-sw-arch)
 - [App development paradigm](#item-one)
+- [Cloud Architecture front block] (#front-block)
 - [Web Application backend](#item-two)
 - [Hosted Web Applicaiton](#item-three)
 
@@ -23,6 +24,13 @@
 ### App development
 
 <img src="techpages/archsnapshots/AppDev.png?raw=true"/>
+
+\
+<br/>
+<a id="front-block"></a>
+### Cloud architecture front block
+
+<img src="techpages/archsnapshots/CloudArchFrontBlock.png?raw=true"/>
 
 \
 <br/>
