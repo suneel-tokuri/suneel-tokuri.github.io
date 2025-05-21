@@ -60,8 +60,8 @@
 2. Vertical Scaling, Scaling up
 
 <br/>
-####App design time
-<br/>
+<strong>App design time</strong>
+<br/><br/>
 
 |                 | Vertical scaling                                       | Horizontal scaling   |
 |-----------------|--------------------------------------------------------|---------------------------------------|
@@ -69,8 +69,8 @@
 |App data         | Streaming data, Chunked encoding                       | nvarchar-to-Object Storage            |
 
 <br/>
-####App runtime
-<br/>
+<strong>App runtime</strong>
+<br/><br/>
 
 |              | Vertical scaling                            | Horizontal scaling               |
 |--------------|---------------------------------------------|----------------------------------|
@@ -78,7 +78,7 @@
 |App data      |Data partiioning, sharding                   | Elastic storage                  |
 
 <br/>
-### Scale cube
+<strong>Scale cube</strong>
 
   * *x-axis*: Scale by cloning server instances
   * *y-axis*: Scale by functional decomposition of application
