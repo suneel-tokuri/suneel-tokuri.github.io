@@ -2,6 +2,7 @@
 
 **Table of content:**
 - [Wings of software architecture](#item-sw-arch)
+- [Prime elements of software architecture](#key-elements-sw-arch)
 - [App development paradigm](#item-one)
 - [Cloud Architecture front block](#front-block)
 - [Web Application backend](#item-two)
@@ -16,6 +17,16 @@
 ### Wings of software architecture
 
 <img src="techpages/archsnapshots/ArchitectureDoc.png?raw=true"/>
+
+
+\
+<br/>
+
+
+<a id="key-elements-sw-arch"></a>
+### Prime elements of software architecture
+
+<img src="techpages/archsnapshots/ArchKeyElements.png?raw=true"/>
 
 
 \
