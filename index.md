@@ -16,7 +16,7 @@
 <a id="item-sw-arch"></a>
 ### Wings of software architecture
 
-<img src="techpages/archsnapshots/ArchitectureDoc.png?raw=true"/>
+<img src="techpages/archsnapshots/ArchitectureDocV2.png?raw=true"/>
 
 
 \
