@@ -8,6 +8,7 @@
 - [Web Application backend](#item-two)
 - [Hosted Web Applicaiton](#item-three)
 - [Scaling](#scaling)
+- [Storage Tiers](#storage-tiers)
 
 \
 <br/>
@@ -96,4 +97,13 @@
   * *z-axis*: Scale by data partitioning with multiple instances working with exclusive data sets
 
 
+<br/>
+
+
+<a id="storage-tiers"></a>
+### Storage
+
+<img src="techpages/archsnapshots/StorageTiers.png?raw=true"/>
+
+\
 <br/>
